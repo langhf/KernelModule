@@ -1,0 +1,1 @@
+cmd_/home/drelang/ko/PassParams/PassParams.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/drelang/ko/PassParams/PassParams.ko /home/drelang/ko/PassParams/PassParams.o /home/drelang/ko/PassParams/PassParams.mod.o

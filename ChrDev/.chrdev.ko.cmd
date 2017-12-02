@@ -1,0 +1,1 @@
+cmd_/home/drelang/ko/chrdev/chrdev.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/drelang/ko/chrdev/chrdev.ko /home/drelang/ko/chrdev/chrdev.o /home/drelang/ko/chrdev/chrdev.mod.o

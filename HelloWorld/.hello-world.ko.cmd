@@ -1,0 +1,1 @@
+cmd_/home/drelang/ko/helloWorld/hello-world.ko := ld -r -m elf_x86_64 -T ./scripts/module-common.lds --build-id  -o /home/drelang/ko/helloWorld/hello-world.ko /home/drelang/ko/helloWorld/hello-world.o /home/drelang/ko/helloWorld/hello-world.mod.o
